@@ -2,10 +2,10 @@
 
 I'm Vishal Reddy Parvatha Reddy, currently pursuing a BSc. in Mathematics and Computer Science at Chennai Mathematical Institute and also a BSc. in Programming and Data Science from Indian Institute of Technology, Madras (Online). 
 
-🔭 I’m currently working on developing my Python skills
-🌱 I’m currently learning Git/GitHub
-💬 Ask me about any Math till XIIth Grade :)
-📫 How to reach me: vishalreddyp2002@gmail.com (or) 21f1001676@student.onlinedegree.iitm.ac.in
+🔭 I’m currently working on developing my Python skills  
+🌱 I’m currently learning Git/GitHub  
+💬 Ask me about any Math till XIIth Grade :)  
+📫 How to reach me: vishalreddyp2002@gmail.com (or) 21f1001676@student.onlinedegree.iitm.ac.in  
 ⚡ Fun fact: It's hard to make a joke on Git, because everyone has their own version of it (:
 <!--
 **VishalReddy2011/VishalReddy2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
